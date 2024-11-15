@@ -1,4 +1,4 @@
-Grok 에 대한 단상 - Data & Compute의 평준화
+# Grok 에 대한 단상 - Data & Compute의 평준화
 
 ![img_40.png](..%2Fimages%2Fimg_40.png)
 

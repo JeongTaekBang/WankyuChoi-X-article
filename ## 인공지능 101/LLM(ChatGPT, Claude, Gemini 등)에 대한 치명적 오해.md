@@ -1,4 +1,4 @@
-LLM(ChatGPT, Claude, Gemini 등)에 대한 치명적 오해
+# LLM(ChatGPT, Claude, Gemini 등)에 대한 치명적 오해
 
 ![img_31.png](..%2Fimages%2Fimg_31.png)
 
