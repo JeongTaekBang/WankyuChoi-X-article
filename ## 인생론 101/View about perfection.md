@@ -1,0 +1,7 @@
+Throughout history, only a handful of artists have been credited with the ability to draw a perfect circle freehand — a claim that remains largely unverified. This speaks to a profound truth: even the legendary masters, such as Michelangelo and Leonardo da Vinci, relied extensively on preliminary sketches and studies before crafting their masterpieces. Their preparatory drawings reveal a journey of evolution, where each iteration refined their technique, composition, and artistic vision with increasing sophistication.
+
+These masters' processes demonstrate that true mastery emerges not from sudden bursts of perfection, but through persistent practice and thoughtful iteration. Their wealth of preparatory drawings laid the foundation for the iconic works we celebrate today, each sketch a step toward something greater.
+
+Given this historical context, why do we burden ourselves with expectations of perfection on our very first attempt? The pursuit of immediate perfection not only defies artistic tradition but also actively hinders genuine creative growth and development. Whether in art or any other discipline, embracing the iterative process allows space for experimentation, failure, and ultimately, profound achievement. We should honor our mistakes as necessary steps on the path to mastery, just as the greatest artists in history have done.
+
+![img_110.png](../images/img_110.png)
